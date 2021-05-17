@@ -1,1 +1,1 @@
-# Some small projects to play with further.
+# Some small Android projects to play with further.
