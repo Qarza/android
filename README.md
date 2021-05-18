@@ -1,3 +1,5 @@
-# Some small Android projects to play with further. Can be opened directly with Android Studio
+# Some small Android projects to play with further. 
 
-Ristinolla a.k.a. TicTacToe
+## Can be opened directly with Android Studio
+
+- Ristinolla a.k.a. TicTacToe
